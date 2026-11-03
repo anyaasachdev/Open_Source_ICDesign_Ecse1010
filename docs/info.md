@@ -17,4 +17,4 @@ In order to test, you should operate switches and observe the LED output.
 
 ## External hardware
 
-The external hardware are switched and LED.
+The external hardware are switches and LED.
